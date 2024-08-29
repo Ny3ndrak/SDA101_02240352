@@ -1,0 +1,23 @@
+body{background-color: rgb(218, 235, 229);}
+
+h1{
+    text-decoration: solid;
+    text-transform: capitalize;
+}
+
+h2{
+    text-decoration: underline;
+    font-style: italic;    
+}
+ol{
+    font-style:;    
+}
+
+.Events{
+    color:#b5e0c2;
+}
+
+.a:hover{
+    background-color: rgb(193, 172, 212);
+}
+  
