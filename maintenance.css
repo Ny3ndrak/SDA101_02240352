@@ -31,3 +31,10 @@ h1{
     background-color: rgb(231, 155, 170);
 }
 
+/*element selector*/
+p
+{
+    color:blueviolet;
+}
+
+

@@ -1,3 +1,7 @@
 table, th, td{
     border: 1px solid brown; border-collapse:collapse;
 }
+
+body{
+    background-color: bisque;
+}
