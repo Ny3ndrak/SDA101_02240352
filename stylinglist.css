@@ -1,0 +1,24 @@
+ol{
+    font-style:initial;
+    align-items:center;
+}
+h2{
+    font-style:oblique;
+}
+
+.a{
+    color: rgb(91, 77, 105);
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+
+body{
+    background-color: rgb(187, 208, 225);
+}
+
+.a:hover{
+    background-color: beige;
+}
+.b:hover{
+    background-color: blueviolet;
+}

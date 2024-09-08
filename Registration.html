@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>College Seminar Registration</title>
+    <link rel="stylesheet" href="Registration.css">
+    <h1><b>Registration form</b> </h1>
+</head>
+<body>
+    <form action="/submit_registration" method="post">
+        <label for="Name">Full Name:</label><br>
+        <input type="text" name="fullname" id="Full Name" required><br><br>
+
+        <label for="dob">Date of Birth:</label><br>
+        <input type="date" name="dob" id="dob" required>  <br><br>
+
+        <label for="gender">Gender:</label><br>
+        <select name="gender" id="gender" required>
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="other">Other</option>
+        </select><br><br>
+
+        <label for="Email">Email Address:</label><br>
+        <input type="email" name="email" id="email address" required><br><br>
+
+        <label for="password">Password:</label><br>
+        <input type="text" name="password" id="password" required><br><br>
+
+        <label for="meal">Meal Preference:</label><br>
+        <select id="meal" name="meal" required>
+            <option value="vegeterian">Vegeterian</option>
+            <option value="non-vegeterian">Non-Vegeterian</option>
+            <option value=""vegan">Vegan</option>       
+            </select> <br.<br>
+
+            <input type="submit" value="Submit">
+    </form>
+        
+</body>
+</html>

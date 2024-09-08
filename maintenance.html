@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hostel Room Maintenance Request</title>
+    <link rel="stylesheet" href="maintenance.css">
+</head>
+<body>
+    <form action="/submit-form" method="post">
+    <h1><b>Hostel Room Maintenance Request</b></h1>
+        <label for="name">Full Name</label>
+        <input type="text" name="full name" id="name"><br>
+        <br>
+        <label for="room number">Room No.</label>
+        <input type="text" name="Room No." id="room no."><br>
+        <br>
+        <label for="issue">Type of Issue:</label>
+        <input type="text" name="issue" id="issue">
+        <select name="issue" id="Select an issue">
+            <option value="">select an issue</option>
+            <option value="plumbing">Plumbing</option>
+            <option value="electrical">Electrical</option>
+            <option value="cleaning">Cleaning</option>
+            <option value="other">Other</option><br>
+        </select><br><br>
+
+        <label for="description">Description</label>
+        <textarea name="describe" id="description"></textarea><br>
+        <br>
+        <label for="urgency">Urgency:</label>
+        <select name="Urgency" id="Urgency" required>
+            <option value="">Select Urgency Level</option>
+            <option value="high">High</option>
+            <option value="medium">Medium</option>
+            <option value="low">Low</option>            
+        </select>
+        <br>
+        <br>
+        <input type="submit" value="Submit">
+    </form>
+</body>
+</html>
