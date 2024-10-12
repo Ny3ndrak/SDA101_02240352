@@ -1,0 +1,1 @@
+The project is to make a form for college seminar registration using html and css. This type it was about making a website page that allows users to interact with the webpage by entering data. I learned different input types like username, password, email, and file provide flexibility in collecting data.

@@ -1,0 +1,2 @@
+The project is based on replicating the website of SLACK using Figma. Through this project, i improved my figma design skills and had less difficulty this time since this was the second project of figma.
+Figma is a one-stop tool for designing, prototyping, and i was able to handle various stages of the design process.

@@ -1,0 +1,2 @@
+This project was based on making a table in html.
+Through this project, i learned how to make table with css where i can style tables to fit any design, from minimalist to complex. Knowing both lets me build and style web pages from scratch.
