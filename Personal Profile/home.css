@@ -1,0 +1,356 @@
+*{
+  background-color: #d1e3f1;
+  text-decoration: none;
+}
+  
+  
+  .HOME .overlap-wrapper {
+    background-color: #ffffff;
+    width: 1280px;
+    height: 830px;
+  }
+  
+  .HOME .overlap {
+    position: relative;
+    height: 828px;
+    top: 2px;
+    background-image: url(./img/rectangle-20.svg);
+    background-size: 100% 100%;
+  }
+  
+  .HOME .overlap-group {
+    position: absolute;
+    width: 734px;
+    height: 449px;
+    top: 137px;
+    left: 284px;
+  }
+  
+  .HOME .div {
+    position: absolute;
+    width: 713px;
+    height: 449px;
+    top: 0;
+    left: 0;
+  }
+  
+  .HOME .whatsapp-image {
+    position: absolute;
+    width: 336px;
+    height: 449px;
+    top: 0;
+    left: 207px;
+    object-fit: cover;
+  }
+  
+  .HOME .text-wrapper {
+    position: absolute;
+    width: 337px;
+    top: 158px;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Figma Hand-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .ellipse {
+    position: absolute;
+    width: 141px;
+    height: 139px;
+    top: 101px;
+    left: 143px;
+    background-color: #89cff008;
+    border-radius: 70.5px / 69.5px;
+    border: 1px solid;
+    border-color: #000000cc;
+    box-shadow: inset 0px 4px 4px #00000040;
+  }
+  
+  .HOME .flexcontainer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 5px;
+    position: absolute;
+    width: 208px;
+    height: 43px;
+    top: 319px;
+    left: 505px;
+  }
+  
+  .HOME .text {
+    position: relative;
+    align-self: stretch;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Figma Hand-Regular", Helvetica;
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 14px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .span {
+    font-family: "Figma Hand-Regular", Helvetica;
+    font-weight: 400;
+    color: #1e1e1e;
+    font-size: 14px;
+    letter-spacing: 0;
+  }
+  
+  .HOME .text-wrapper-2 {
+    width: 191px;
+    top: 267px;
+    left: 543px;
+    font-family: "Figma Hand-Regular", Helvetica;
+    font-size: 13px;
+    position: absolute;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .arrow {
+    position: absolute;
+    width: 99px;
+    height: 97px;
+    top: 170px;
+    left: 589px;
+    background-color: #dde7eede;
+    border-radius: 49.5px / 48.5px;
+    box-shadow: 0px 4px 4px #00000040;
+  }
+  
+  .HOME .arrow-forward {
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    top: 33px;
+    left: 34px;
+  }
+  
+  .HOME .socials {
+    position: absolute;
+    width: 1217px;
+    height: 168px;
+    top: 614px;
+    left: 13px;
+  }
+  
+  .HOME .group {
+    width: 173px;
+    height: 29px;
+    top: 21px;
+    position: absolute;
+    left: 79px;
+  }
+  
+  .HOME .facebook {
+    position: absolute;
+    width: 34px;
+    height: 29px;
+    top: 0;
+    left: 69px;
+  }
+  
+  .HOME .instagram {
+    position: absolute;
+    width: 34px;
+    height: 29px;
+    top: 0;
+    left: 0;
+  }
+  
+  .HOME .github {
+    position: absolute;
+    width: 34px;
+    height: 29px;
+    top: 0;
+    left: 139px;
+  }
+  
+  .HOME .overlap-group-wrapper {
+    width: 268px;
+    height: 86px;
+    top: 84px;
+    position: absolute;
+    left: 79px;
+  }
+  
+  .HOME .overlap-2 {
+    position: relative;
+    width: 262px;
+    height: 86px;
+  }
+  
+  .HOME .overlap-group-2 {
+    position: absolute;
+    width: 149px;
+    height: 30px;
+    top: 0;
+    left: 3px;
+  }
+  
+  .HOME .text-wrapper-3 {
+    position: absolute;
+    width: 126px;
+    top: 0;
+    left: 23px;
+    font-family: "Pridi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .HOME .phone {
+    position: absolute;
+    width: 28px;
+    height: 29px;
+    top: 1px;
+    left: 0;
+  }
+  
+  .HOME .overlap-3 {
+    position: absolute;
+    width: 262px;
+    height: 59px;
+    top: 27px;
+    left: 0;
+  }
+  
+  .HOME .mail {
+    position: absolute;
+    width: 34px;
+    height: 28px;
+    top: 12px;
+    left: 0;
+  }
+  
+  .HOME .text-wrapper-4 {
+    position: absolute;
+    width: 200px;
+    top: 0;
+    left: 36px;
+    font-family: "Pridi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-5 {
+    position: absolute;
+    width: 242px;
+    top: 21px;
+    left: 20px;
+    font-family: "Pridi-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 16px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .HOME .header {
+    position: absolute;
+    width: 1132px;
+    height: 33px;
+    top: 51px;
+    left: 74px;
+    background-color: transparent;
+  }
+  
+  .HOME .text-wrapper-6 {
+    position: absolute;
+    top: 3px;
+    left: 477px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 24px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-7 {
+    position: absolute;
+    top: 7px;
+    left: 0;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .HOME .text-wrapper-8 {
+    top: 7px;
+    left: 107px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Regular", Helvetica;
+    font-size: 20px;
+    white-space: nowrap;
+    position: absolute;
+    font-weight: 400;
+    color: #000000;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .HOME .text-wrapper-9 {
+    position: absolute;
+    top: 7px;
+    left: 239px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .HOME .text-wrapper-10 {
+    position: absolute;
+    top: -1px;
+    left: 981px;
+    text-shadow: 0px 4px 4px #00000040;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .group{
+    letter-spacing: 10px;
+  }
+  
